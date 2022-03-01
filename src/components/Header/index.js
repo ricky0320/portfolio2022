@@ -15,7 +15,7 @@ function Header(props) {
     <header className='flex-row px-1'>
       <h1>
         <a href='https://kcheykim.github.io/cheykim-portfolio/'>
-          <span role='img' aria-label='world'>🌍</span>Kosal Cheykim
+          Ricky Leung 
         </a>
       </h1>
       <nav>
