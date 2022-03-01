@@ -1,8 +1,8 @@
 import React from "react";
 import { capitalizeFirstLetter } from '../../utils/helpers';
-import photo from "../../assets/small/commercial/0.jpg";
+// import photo from "../../assets/small/commercial/0.jpg";
 
-function Gallery(props) {
+function Project(props) {
   const currentCategory = {
     name: "commercial",
     description:
@@ -13,13 +13,13 @@ function Gallery(props) {
       <h1>{capitalizeFirstLetter(currentCategory.name)}</h1>
       <p>{currentCategory.name}</p>
       <div className="flex-row">
-          <img
+          {/* <img
             src={photo}
             alt="Commercial Example"
             className="img-thumbnail mx-1"
-          />
+          /> */}
       </div>
     </section>
   );
 }
-export default Gallery;
+export default Project;
