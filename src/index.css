@@ -1,7 +1,12 @@
+html, body, #app, #app>div {
+  height: 100%
+}
+
 main {
 	margin: 0 auto;
 	max-width: 100%;
   max-height: 100%;
+
 } 
 
 * {
@@ -31,10 +36,11 @@ body {
   letter-spacing: .2em;
   background: var(--dark);
   color: var(--light);
-  background-image: url("../src/assets/images/purpleLandscape.jpeg");
+  background-image: url("../src/assets/images/yuri-3.JPG");
   background-size: cover;
   display: flex;
   flex-direction: column;
+  background-attachment: fixed;
 }
 
 #about,
@@ -111,17 +117,9 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
-  background-image: url("../src/assets/images/fern.jpeg");
+  color:white;
   background-size: cover;
-  height: 300px;
-  clip-path: polygon(
-    0 0, /* left top */
-    100% 0, /* right top */ 
-    100% 100%, /* right bottom */
-    0 80% /* left bottom */
-  );
-
+  height: 150px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -131,6 +129,8 @@ header {
 
 header a {
   color: var(--light);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 3rem;
 }
 
 button {
@@ -297,7 +297,7 @@ textarea {
 footer{
   margin-top: auto;
   bottom: 0px;
-  height: 80px;
+  height: 60px;
   background-color: var(--dark);
   color: white;
   width: 100%;

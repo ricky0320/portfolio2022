@@ -6,7 +6,7 @@ const PortfolioList = ({tech}) => {
   const [projects] = useState([
     {
       name: "Flavor Express",
-      src: "flavor-express.png",
+      src: "flavor-express.jpg",
       tech: "Fullstack",
       description: "A recipe sharing app.",
       link: "https://flavor-express.herokuapp.com/",
@@ -14,7 +14,7 @@ const PortfolioList = ({tech}) => {
     },
     {
       name: "Music Matcher",
-      src: "music-matcher.png",
+      src: "music-matcher.jpg",
       tech:"Front-End",
       description: "A music app that returns similar musics.",
       link: "https://ricky0320.github.io/MusicMatcher/",
@@ -22,33 +22,33 @@ const PortfolioList = ({tech}) => {
     },
     {
       name: "Coding Quiz",
-      src: "coding-quiz.png",
+      src: "coding-quiz.jpg",
       tech: "Front-End",
-      description: "An quiz app for JavaScript, HTML and CSS.",
-      link: "https://kcheykim.github.io/coding-quiz/",
-      git: "https://github.com/kcheykim/coding-quiz.git"
+      description: "Quiz built with JavaScript.",
+      link: "https://ricky0320.github.io/quiz-stop/",
+      git: "https://github.com/ricky0320/quiz-stop.git"
     },
     {
       name: "Note Taker",
-      src: "note-taker-landing.png",
+      src: "note-taker.jpg",
       tech: "Back-End",
-      description: "An note taking app.",
-      link: "https://sleepy-cove-15810.herokuapp.com/",
-      git: "https://github.com/kcheykim/note-taker.git"
+      description: "A note taking app.",
+      link: "https://mobile-notes.herokuapp.com/",
+      git: "https://github.com/ricky0320/Mobile-Notes.git"
     },
     {
       name: "Weather Dashboard",
-      src: "weather-dashboard.png",
+      src: "weather-dashboard.jpg",
       tech: "Front-End",
-      description: "An weather app.",
-      link: "https://kcheykim.github.io/weather-dashboard/",
+      description: "Weather tracker app.",
+      link: "https://ricky0320.github.io/weather-tracker/",
       git: "https://github.com/kcheykim/work-day-scheduler.git"
     },
     {
       name: "Work Day Scheduler",
-      src: "work-day-scheduler.png",
+      src: "work-day-scheduler.jpg",
       tech: "Front-End",
-      description: "An application that keeps track of daily schedule.",
+      description: "Daily schedule App.",
       link: "https://ricky0320.github.io/work-day-scheduler/",
       git: "https://github.com/ricky0320/work-day-scheduler.git"
     }

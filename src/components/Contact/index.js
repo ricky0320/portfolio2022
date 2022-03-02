@@ -38,8 +38,8 @@ function ContactForm({currentCategory}) {
     return (
         <section id="contact">
             <h2 className="my-5">Contact Me
-                <a className="mx-2" href="https://github.com/kcheykim"><BsGithub /></a>
-                <a className="mx-2" href="mailto:kosalcheykim@gmail.com"><MdEmail /></a>
+                <a className="mx-2" href="https://github.com/ricky0320"><BsGithub /></a>
+                <a className="mx-2" href="mailto:ricxx0320@gmail.com"><MdEmail /></a>
             </h2>
             <p>{description}</p>
             <form id="contact-form" onSubmit={handleSubmit}>

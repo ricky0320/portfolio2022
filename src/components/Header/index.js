@@ -14,7 +14,7 @@ function Header(props) {
   return (
     <header className='flex-row px-1'>
       <h1>
-        <a href='https://kcheykim.github.io/cheykim-portfolio/'>
+        <a href='https://ricky0320.github.io/portfolio2022/'>
           Ricky Leung 
         </a>
       </h1>
