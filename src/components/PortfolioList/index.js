@@ -42,7 +42,7 @@ const PortfolioList = ({tech}) => {
       tech: "Front-End",
       description: "Weather tracker app.",
       link: "https://ricky0320.github.io/weather-tracker/",
-      git: "https://github.com/kcheykim/work-day-scheduler.git"
+      git: "https://github.com/ricky0320/weather-tracker.git"
     },
     {
       name: "Work Day Scheduler",
