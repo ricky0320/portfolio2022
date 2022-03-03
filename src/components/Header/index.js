@@ -14,15 +14,15 @@ function Header(props) {
   return (
     <header className='flex-row px-1'>
       <h1>
-        <a href='https://ricky0320.github.io/portfolio2022/'>
+        <a className='has-text-link' href='https://ricky0320.github.io/portfolio2022/'>
           Ricky Leung 
         </a>
       </h1>
       <nav>
-        <ul className='flex-row'>
+        <ul className='flex-row has-text-link'>
           {categories.map((category) => (
              <li
-             className={`mx-2 ${
+             className={`mx-2 is-size-4 ${
                currentCategory.name === category.name && 'navActive'
                }`}
              key={category.name}

@@ -33,10 +33,10 @@ body {
   padding-bottom: 5%;
   font-weight: 600;
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 20px !important;
   letter-spacing: .2em;
   background: var(--dark);
-  color: var(--light);
+  color: rgb(0, 0, 0) !important;
   background-image: url("../src/assets/images/yuri-3.JPG");
   background-size: cover;
   display: flex;
