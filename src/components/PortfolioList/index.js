@@ -56,7 +56,7 @@ const PortfolioList = ({tech}) => {
 
   return (
     <div>
-      <div className="flex-row">
+      <div className="flex-row project-list">
         {projects.map((project, i) => (
          <Project project={project} />
         ))}

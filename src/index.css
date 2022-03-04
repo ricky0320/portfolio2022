@@ -367,3 +367,7 @@ padding: 10px;
   color: var(--dark);
   font-weight: bolder;
 }
+
+.project-list{
+  margin-bottom: 100px;
+}
