@@ -21,21 +21,13 @@ function Resume({}) {
 						GitHub
 					</li>
 					<li>
-						<DiMongodb className="mx-5" />
-						MongoDB
-					</li>
-					<li>
 						<SiJavascript className="mx-5" />
 						JavaScript
 					</li>
 					<li>
-						<AiFillHtml5 className="mx-5" />
-						HTML
-					</li>
-					<li>
 						{' '}
-						<SiInsomnia className="mx-5" />
-						Insomnia
+						<GrReactjs className="mx-5" />
+						React
 					</li>
 					<li>
 						{' '}
@@ -43,9 +35,22 @@ function Resume({}) {
 						MySQL
 					</li>
 					<li>
+						<AiFillHtml5 className="mx-5" />
+						HTML
+					</li>
+					<li>
 						{' '}
-						<GrReactjs className="mx-5" />
-						React
+						<SiBulma className="mx-5" />
+						Bulma CSS
+					</li>
+					<li>
+						<DiMongodb className="mx-5" />
+						MongoDB
+					</li>
+					<li>
+						{' '}
+						<SiInsomnia className="mx-5" />
+						Insomnia
 					</li>
 					<li>
 						<SiGraphql className="mx-5" />
@@ -55,11 +60,6 @@ function Resume({}) {
 						{' '}
 						<SiHeroku className="mx-5" />
 						Heroku
-					</li>
-					<li>
-						{' '}
-						<SiBulma className="mx-5" />
-						Bulma
 					</li>
 				</ul>
 			</div>
