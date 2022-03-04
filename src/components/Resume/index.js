@@ -44,13 +44,13 @@ function Resume({}) {
 						Bulma CSS
 					</li>
 					<li>
-						<DiMongodb className="mx-5" />
-						MongoDB
-					</li>
-					<li>
 						{' '}
 						<SiInsomnia className="mx-5" />
 						Insomnia
+					</li>
+					<li>
+						<DiMongodb className="mx-5" />
+						MongoDB
 					</li>
 					<li>
 						<SiGraphql className="mx-5" />
