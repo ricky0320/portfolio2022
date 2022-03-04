@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio2022/static/css/main.a535c074.css",
+    "main.js": "/portfolio2022/static/js/main.f65e2f71.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portfolio2022/static/js/787.28cb0dcd.chunk.js",
+    "static/media/music-matcher.jpg": "/portfolio2022/static/media/music-matcher.fd28b701b27777990c2e.jpg",
+    "static/media/weather-dashboard.jpg": "/portfolio2022/static/media/weather-dashboard.2b6cf6b5ea9485a50bd5.jpg",
+    "static/media/flavor-express.jpg": "/portfolio2022/static/media/flavor-express.6d50a89e984355350223.jpg",
+    "static/media/coding-quiz.jpg": "/portfolio2022/static/media/coding-quiz.b7401a4da05b45b5e538.jpg",
+    "static/media/work-day-scheduler.jpg": "/portfolio2022/static/media/work-day-scheduler.36853ab50380baffc78e.jpg",
+    "static/media/yuri-3.JPG": "/portfolio2022/static/media/yuri-3.55bbcfe59237c90cdb37.JPG",
+    "static/media/resume.pdf": "/portfolio2022/static/media/resume.5d75856e6e72db85f816.pdf",
+    "static/media/profilePic.jpg": "/portfolio2022/static/media/profilePic.5159434f2f34aa9555cc.jpg",
+    "static/media/note-taker.jpg": "/portfolio2022/static/media/note-taker.3ba00e4453382dd1b820.jpg",
+    "static/media/note-taker-landing.png": "/portfolio2022/static/media/note-taker-landing.d29e86a15c6fe45d944b.png",
+    "index.html": "/portfolio2022/index.html",
+    "main.a535c074.css.map": "/portfolio2022/static/css/main.a535c074.css.map",
+    "main.f65e2f71.js.map": "/portfolio2022/static/js/main.f65e2f71.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portfolio2022/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a535c074.css",
+    "static/js/main.f65e2f71.js"
+  ]
+}
