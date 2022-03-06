@@ -5,6 +5,14 @@ const PortfolioList = ({tech}) => {
 
   const [projects] = useState([
     {
+      name: "GIFT",
+      src: "GIFT.png",
+      tech: "Fullstack",
+      description: "An app with gifting ideas and personality test.",
+      link: "http://gift-p3.herokuapp.com/",
+      git: "https://github.com/ricky0320/GIFT.git"
+    },
+    {
       name: "Flavor Express",
       src: "flavor-express.jpg",
       tech: "Fullstack",
